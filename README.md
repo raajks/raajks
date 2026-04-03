@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Trainer;PHP+%26+MySQL+Expert;Building+Real+World+Projects;Passionate+Educator&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;PHP+%26+MySQL+Expert;Building+Real+World+Projects;Passionate+Educator&center=true&width=500&height=50">
 </p>
 
 ---
@@ -23,21 +23,34 @@
 
 ## 💼 Featured Projects
 
+### 🤖 LifeLine AI (Healthcare Assistant)
+- AI-based system for basic health guidance & emergency support
+- Smart response system using Python logic / APIs
+- Tech: Python, AI Logic, API Integration
+
+### 🧠 AI Chatbot / Smart Assistant
+- Intelligent chatbot for answering user queries
+- Can be integrated into websites for automation
+- Tech: Python, JavaScript, API (AI Integration)
+
 ### 🛍️ Vrinda Vastram (E-commerce Website)
 - Full shopping platform (Product, Cart, Payment, Delivery)
+- Real client-based project
 - Tech: HTML, CSS, JavaScript, PHP, MySQL
 
 ### 🎓 Coaching Management System
 - Student management, course handling, admin dashboard
-- Real-world use case for coaching institute
+- Designed for real coaching environment
+- Tech: PHP, MySQL, JavaScript
 
 ### 🌐 Portfolio Website
 - Personal branding + project showcase
 - Responsive modern UI
+- Tech: HTML, CSS, JavaScript
 
 ### 🧠 Minor & Academic Projects
 - Multiple BCA/MCA level academic implementations
-- Practical-based learning approach
+- Covers DSA, DBMS, and system-based projects
 
 ---
 
@@ -52,8 +65,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 Web Development Trainer  
-- 🏫 Teaching & mentoring BCA students  
+- 🏫 Teaching & mentoring B.Tech, BCA, MCA students  
 - 💡 Built multiple real-world projects  
 
 ---
@@ -62,7 +74,6 @@
 
 <p align="center">
   <a href="mailto:rajkumarsharma705214@gmail.com">📧 Email</a> •
-  <a href="#">📞 7052141220</a> •
   <a href="#">📍 Ghaziabad, India</a>
 </p>
 
