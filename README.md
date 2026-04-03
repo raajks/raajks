@@ -1,16 +1,24 @@
-<h1 align="center">Hi 👋, I'm Raj Kumar Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Raj</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Building Real-World Projects | Educator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;PHP+%26+MySQL+Expert;Building+Real+World+Projects;Passionate+Educator&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;PHP+%26+MySQL+Expert;AI+Projects+Builder;Passionate+Educator&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raajks&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 💻 Passionate about building real-world scalable web applications  
-
+- 🎓 I'm currently pursuing M.Tech from AKTU Lucknow.
+- 👨‍🏫 Full Stack Developer
+- 🔭 Building real-world projects: E-commerce (Vrinda Vastram), Coaching Management System, AI Tools  
+- 🧠 Teaching & mentoring B.Tech and BCA/MCA students with practical approach  
+- 🚀 Focused on creating scalable web applications & impactful solutions  
+- 📬 Reach me at: rajkumarsharma705214@gmail.com  
 ---
 
 ## 🚀 Tech Stack
