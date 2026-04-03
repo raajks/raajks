@@ -1,27 +1,43 @@
 <h1 align="center">Hi 👋, I'm Raj Kumar Sharma</h1>
-<h3 align="center">🚀 Web Developer | Trainer | Founder @ RJTechVerse</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;MERN+Stack+Trainer;PHP+%26+MySQL+Expert;Building+Real+World+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Trainer;PHP+%26+MySQL+Expert;Building+Real+World+Projects;Passionate+Educator&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Graduate 
-- 👨‍🏫 Web Development Trainer @ Sunder Deep Engineering College
-- 🏫 Founder of **RJTechVerse** – Empowering Future Coders
-- 💻 Working on Real Projects like:
-  - 🌐 Portfolio & Course Platforms
+- 💻 Passionate about building real-world scalable web applications  
 
 ---
 
 ## 🚀 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,php,mysql,git,github,c,cpp" />
 </p>
+
+---
+
+## 💼 Featured Projects
+
+### 🛍️ Vrinda Vastram (E-commerce Website)
+- Full shopping platform (Product, Cart, Payment, Delivery)
+- Tech: HTML, CSS, JavaScript, PHP, MySQL
+
+### 🎓 Coaching Management System
+- Student management, course handling, admin dashboard
+- Real-world use case for coaching institute
+
+### 🌐 Portfolio Website
+- Personal branding + project showcase
+- Responsive modern UI
+
+### 🧠 Minor & Academic Projects
+- Multiple BCA/MCA level academic implementations
+- Practical-based learning approach
 
 ---
 
@@ -34,23 +50,26 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raajks&theme=onedark" />
-</p>
+- 🥇 Web Development Trainer  
+- 🏫 Teaching & mentoring BCA students  
+- 💡 Built multiple real-world projects  
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: rajkumarsharma705214@gmail.com  
-- 📞 Contact: 7052141220 / 8958537734  
-- 📍 Location: Ghaziabad, India  
-- 🏫 RJTechVerse Coaching Center  
+<p align="center">
+  <a href="mailto:rajkumarsharma705214@gmail.com">📧 Email</a> •
+  <a href="#">📞 7052141220</a> •
+  <a href="#">📍 Ghaziabad, India</a>
+</p>
 
 ---
 
 ## 💡 Quote
 
-> "Consistency + Skills = Success 🚀"
+<p align="center">
+  <b>"Consistency + Skills = Success 🚀"</b>
+</p>
